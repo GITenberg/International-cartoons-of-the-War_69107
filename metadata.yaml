@@ -1,0 +1,27 @@
+_repo: International-cartoons-of-the-War_69107
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Adam, H. Pearl
+    gutenberg_agent_id: '55106'
+    url: http://www.gutenberg.org/2009/agents/55106
+description: ''
+gutenberg_issued: '2022-10-07'
+identifiers:
+  gutenberg: '69107'
+language: en
+pgterms:marc904: https://archive.org/details/internationalcar00adam_0/mode/2up
+pgterms:marc905: 20210714034342adam
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Brian Coe, Brian Wilsden and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :E.P. Dutton & Co.,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: International cartoons of the War
+url: http://www.gutenberg.org/ebooks/69107
