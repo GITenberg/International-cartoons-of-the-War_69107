@@ -1,11 +1,16 @@
 _repo: International-cartoons-of-the-War_69107
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69107-h/images/cover.jpg
 creator:
   editor:
     agent_name: Adam, H. Pearl
     gutenberg_agent_id: '55106'
     url: http://www.gutenberg.org/2009/agents/55106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69107#International-cartoons-of-the-War
 gutenberg_issued: '2022-10-07'
 identifiers:
   gutenberg: '69107'
